@@ -17,9 +17,9 @@
 - Data storytelling
 
 📂 Notable Projects:
-- [📊 Nigerian Shipping Sales Analysis (Python)](link:https://github.com/Dom-ni/Nigerian-Shipping-Analysis)
-- [🎮 Video Game Sales Analysis (Power BI)](link:https://github.com/Dom-ni/Video-Game-Analysis)
-- [📱 Twitter Airline Sentiment Analysis (NLP)](link:https://github.com/Dom-ni/US_Twitter_Airline_Sentiment_Analysis)
-- [FinTech Investment Analysis (SQL)](link:https://github.com/Dom-ni/DataAnalytics-Assessment)
+- [📊 Nigerian Shipping Sales Analysis (Python)](link:https:/github.com/Dom-ni/Nigerian-Shipping-Analysis)
+- [🎮 Video Game Sales Analysis (Power BI)](link:https:/github.com/Dom-ni/Video-Game-Analysis)
+- [📱 Twitter Airline Sentiment Analysis (NLP)](link:https:/github.com/Dom-ni/US_Twitter_Airline_Sentiment_Analysis)
+- [FinTech Investment Analysis (SQL)](link:https:/github.com/Dom-ni/DataAnalytics-Assessment)
   
 📫 Reach me: [LinkedIn](www.linkedin.com/in/bassey-edet-85484a233) | [Email](mailto:Basseydominic10@gmail.com)
